@@ -3,8 +3,69 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:PRN221_Assignment1_Group3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+        Title="Login" Height="450" Width="800">
+    <Window.Resources>
+        <!-- Style for Label -->
+        <Style x:Key="labelPrimary" TargetType="Label">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <!-- Style for TextBox -->
+        <Style x:Key="textboxPrimary" TargetType="TextBox">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+
+        <!-- Style for PasswordBox -->
+        <Style x:Key="passwordBoxPrimary" TargetType="PasswordBox">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+
+        <!-- Style for Button -->
+        <Style x:Key="btnPrimary" TargetType="Button">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="DarkBlue"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="BorderBrush" Value="DarkBlue"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <!-- Style for TextBlock (heading) -->
+        <Style x:Key="headingPrimary" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <!-- Style for TextBlock (span) -->
+        <Style x:Key="spanPrimary" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="Gray"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Background="white" HorizontalAlignment="Center" VerticalAlignment="Center" Width="auto" Margin="0 0 0 30">
+            <TextBlock Style="{StaticResource headingPrimary}" HorizontalAlignment="Center">
+                Sales Management
+            </TextBlock>
+            <TextBlock Style="{StaticResource spanPrimary}" HorizontalAlignment="Center" Margin="0 0 0 10">
+                Welcome to Sales Management
+            </TextBlock>
+            <Label Content="Username" Style="{StaticResource labelPrimary}"/>
+            <TextBox x:Name="txtBoxUsername" Margin="0 0 0 5" Style="{StaticResource textboxPrimary}"/>
+            <Label Content="Password" Style="{StaticResource labelPrimary}"/>
+            <PasswordBox x:Name="pwdBoxPassword" Margin="0 0 0 20" Style="{StaticResource passwordBoxPrimary}"/>
+            <Button Content="Login" Style="{StaticResource btnPrimary}" Width="100" Click="Btn_login"></Button>
+        </StackPanel>
+    </Grid>
 </Window>

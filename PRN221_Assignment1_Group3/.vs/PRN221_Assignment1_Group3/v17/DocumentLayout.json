@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\updateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:updateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\updateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:updateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\currenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:currenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|d:\\download d\\assignment1_prn221\\prn221_assignment1_group3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FECE11-D4E0-4445-8F98-02DF09E4B0F2}|PRN221_Assignment1_Group3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\ChangePasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChangePasswordWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\ChangePasswordWindow.xaml.cs",
+              "RelativeToolTip": "ChangePasswordWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:27:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "ChangePasswordWindow.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "ChangePasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T08:22:15.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrderWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "OrderWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:45:28.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "OrderWindow.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\OrderWindow.xaml",
+              "RelativeToolTip": "OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T06:44:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminHome.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AdminHome.xaml.cs",
+              "RelativeDocumentMoniker": "AdminHome.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AdminHome.xaml.cs",
+              "RelativeToolTip": "AdminHome.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:11:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminHome.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AdminHome.xaml",
+              "RelativeDocumentMoniker": "AdminHome.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AdminHome.xaml",
+              "RelativeToolTip": "AdminHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T06:08:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProfileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\UpdateProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UpdateProfileWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\UpdateProfileWindow.xaml.cs",
+              "RelativeToolTip": "UpdateProfileWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:12:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProfileWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\UpdateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "UpdateProfileWindow.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\UpdateProfileWindow.xaml",
+              "RelativeToolTip": "UpdateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T05:11:47.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:44:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Home.xaml",
+              "RelativeDocumentMoniker": "Home.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Home.xaml",
+              "RelativeToolTip": "Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T04:36:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrenUser.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\CurrenUser.cs",
+              "RelativeDocumentMoniker": "CurrenUser.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\CurrenUser.cs",
+              "RelativeToolTip": "CurrenUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:53:56.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:50.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Staff.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Staff.cs",
+              "RelativeToolTip": "Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:39.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:39.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyStoreContext.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "Models\\MyStoreContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:28:38.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T02:30:44.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T01:00:40.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T00:55:24.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\Assignment1_Prn221\\PRN221_Assignment1_Group3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:55:24.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
