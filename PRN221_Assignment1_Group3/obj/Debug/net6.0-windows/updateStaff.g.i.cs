@@ -85,7 +85,7 @@ namespace PRN221_Assignment1_Group3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PRN221_Assignment1_Group3;component/updatestaff.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PRN221_Assignment1_Group3;V1.0.0.0;component/updatestaff.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\updateStaff.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
